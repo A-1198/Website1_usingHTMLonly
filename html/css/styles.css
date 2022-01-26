@@ -1,0 +1,31 @@
+body 
+ {
+    background-color: #a8b3af;
+}
+h1{
+    color  :darkslategray;
+}
+hr :hover
+{
+    background-color: gold; 
+    border-style: none;
+    border-top-style: dotted;
+    border-color: cornflowerblue;
+    border-width: 5px; 
+    width: 10%;
+}
+h3 
+{
+    color : navy;
+}
+.A1
+{
+    background-position: 25px;
+   background-color: crimson;
+
+}
+#BOI
+{
+    color : black;
+    background-color: burlywood;
+}
